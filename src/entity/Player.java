@@ -10,7 +10,7 @@ import weapon.Weapon;
 import static main.Consts.HEIGHT;
 
 public class Player extends Character {
-    private int xp = 0, money = 10000;
+    private int xp = 0, money = 100;
     private PlayerClass playerClass;
     private Inventory inventory = new Inventory();
 

@@ -9,7 +9,7 @@ public abstract class Monster extends Character {
     }
 
     public String toString() {
-        return "M";
+        return "";
     }
 
     public String getName() {

@@ -9,4 +9,5 @@ Tip: Try to farm monsters to buy better gear before going to a higher level
 
 The game relies heavily on ASCII art.
 
-There is room to improvement in game balance and features. Feel free to PR
+There is room to improvement in game balance and features. Also, there are probably unforeseen bugs.
+Feel free to PR
